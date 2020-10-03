@@ -18,6 +18,7 @@ struct beta
 
 };
 beta *head = NULL;//this is my head pointer which holds the address of the first node
+//This code is shite
 // alpha is my link list class which work on queue behaviour
 class alpha
 {
